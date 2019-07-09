@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\ConflictingInterfaces\ConflictingInterfaces\bin\Debug\ConflictingInterfaces.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\ConflictingInterfaces\ConflictingInterfaces\bin\Debug\ConflictingInterfaces.exe
+C:\Users\Nemanja Djordjevic\source\repos\ConflictingInterfaces\ConflictingInterfaces\bin\Debug\ConflictingInterfaces.pdb
+C:\Users\Nemanja Djordjevic\source\repos\ConflictingInterfaces\ConflictingInterfaces\obj\Debug\ConflictingInterfaces.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\ConflictingInterfaces\ConflictingInterfaces\obj\Debug\ConflictingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\ConflictingInterfaces\ConflictingInterfaces\obj\Debug\ConflictingInterfaces.exe
+C:\Users\Nemanja Djordjevic\source\repos\ConflictingInterfaces\ConflictingInterfaces\obj\Debug\ConflictingInterfaces.pdb
